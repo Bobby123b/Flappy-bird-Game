@@ -9,7 +9,7 @@ On MacOS, pipenv will install PyGame, please check how to install on your Linux/
 
 Clone the repository:
 
-$ git clone https://github.com/sourabhv/FlapPyBird
+$ git clone https://github.com/Bobby123b/Flappy-bird-Game
 or download as zip and extract.
 
 In the root directory run
